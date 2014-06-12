@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A711BFE1-098C-4086-94D3-1861C1D0779A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Adafruit Bluefruit LE Connect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD634D76-68F8-4180-A8AF-1A2CA5206462</key>
+		<string>https://github.com/adafruit/Bluefruit_LE_Connect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Adafruit Bluefruit LE Connect.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD634D76-68F8-4180-A8AF-1A2CA5206462</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/adafruit/Bluefruit_LE_Connect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD634D76-68F8-4180-A8AF-1A2CA5206462</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD634D76-68F8-4180-A8AF-1A2CA5206462</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bluefruit_LE_Connect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
